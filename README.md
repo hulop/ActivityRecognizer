@@ -8,14 +8,11 @@ Pre-Requisites
 - [LIBLINEAR 1.9.4](http://www.csie.ntu.edu.tw/~cjlin/liblinear/)    (BSD License)
 
 
-How Can I Contribute?
+## About
 ----
-Please provide "CONTRIBUTOR LICENSE AGREEMENT (CLA)" below before you start your contributions.
-
-- [Individual CLA](https://github.com/accessibility-research/HULO/blob/master/cla-individual.md)
-- [Corporate CLA](https://github.com/accessibility-research/HULO/blob/master/cla-corporate.md)
+[About HULOP](https://github.com/hulop/00Readme)
 
 
-License
+## License
 ----
 [MIT](http://opensource.org/licenses/MIT)
